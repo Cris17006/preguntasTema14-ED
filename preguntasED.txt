@@ -1,0 +1,35 @@
+1. ¿Qué tipo de pruebas se realizan en las últimas etapas previas a la liberación del software para determinar si cumple con todas las necesidades incluidas en la captura de requisitos?
+   A) Pruebas de caja blanca
+   B) Pruebas de aceptación
+   C) Pruebas de seguridad
+   D) Pruebas A/B
+   Respuesta correcta: B) Pruebas de aceptación
+
+2. ¿Qué tipo de pruebas permiten realizar pruebas del software sin conocer detalles de implementación?
+   A) Pruebas de caja blanca
+   B) Pruebas de aceptación
+   C) Pruebas de seguridad
+   D) Pruebas de caja negra
+   Respuesta correcta: D) Pruebas de caja negra
+
+3. ¿En qué consisten las pruebas A/B en el desarrollo de software?
+   A) Comparar dos versiones de un software
+   B) Evaluar la seguridad de un software
+   C) Medir la accesibilidad de una página web
+   D) Realizar pruebas de aceptación
+   Respuesta correcta: A) Comparar dos versiones de un software
+
+4. ¿Qué tipo de pruebas son esenciales en el desarrollo de software que requiere el tratamiento de datos sensibles?
+   A) Pruebas de caja blanca
+   B) Pruebas de aceptación
+   C) Pruebas de seguridad
+   D) Pruebas A/B
+   Respuesta correcta: C) Pruebas de seguridad
+
+5. ¿En qué consisten las pruebas de caja blanca?
+   A) Pruebas que se realizan sin conocer detalles de implementación
+   B) Pruebas que requieren un alto nivel de conocimiento del código
+   C) Pruebas que se centran en la funcionalidad del software
+   D) Pruebas que evalúan la usabilidad de una aplicación
+   Respuesta correcta: B) Pruebas que requieren un alto nivel de conocimiento del código
+
