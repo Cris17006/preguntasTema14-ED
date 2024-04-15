@@ -3,7 +3,10 @@
    B) Pruebas de aceptación
    C) Pruebas de seguridad
    D) Pruebas A/B
+<<<<<<< HEAD
 
+=======
+>>>>>>> aafe3e9bce4b22f84b9c1ec9d57fd306efe3612a
    Respuesta correcta: B) Pruebas de aceptación
 
 2. ¿Qué tipo de pruebas permiten realizar pruebas del software sin conocer detalles de implementación?
@@ -11,7 +14,10 @@
    B) Pruebas de aceptación
    C) Pruebas de seguridad
    D) Pruebas de caja negra
+<<<<<<< HEAD
 
+=======
+>>>>>>> aafe3e9bce4b22f84b9c1ec9d57fd306efe3612a
    Respuesta correcta: D) Pruebas de caja negra
 
 3. ¿En qué consisten las pruebas A/B en el desarrollo de software?
@@ -19,7 +25,10 @@
    B) Evaluar la seguridad de un software
    C) Medir la accesibilidad de una página web
    D) Realizar pruebas de aceptación
+<<<<<<< HEAD
 
+=======
+>>>>>>> aafe3e9bce4b22f84b9c1ec9d57fd306efe3612a
    Respuesta correcta: A) Comparar dos versiones de un software
 
 4. ¿Qué tipo de pruebas son esenciales en el desarrollo de software que requiere el tratamiento de datos sensibles?
@@ -27,7 +36,10 @@
    B) Pruebas de aceptación
    C) Pruebas de seguridad
    D) Pruebas A/B
+<<<<<<< HEAD
 
+=======
+>>>>>>> aafe3e9bce4b22f84b9c1ec9d57fd306efe3612a
    Respuesta correcta: C) Pruebas de seguridad
 
 5. ¿En qué consisten las pruebas de caja blanca?
@@ -35,6 +47,7 @@
    B) Pruebas que requieren un alto nivel de conocimiento del código
    C) Pruebas que se centran en la funcionalidad del software
    D) Pruebas que evalúan la usabilidad de una aplicación
+<<<<<<< HEAD
 
    Respuesta correcta: B) Pruebas que requieren un alto nivel de conocimiento del código
 
@@ -76,3 +89,7 @@
     D) Pruebas de usabilidad
     
     Respuesta correcta: C) Pruebas de caja negra
+=======
+   Respuesta correcta: B) Pruebas que requieren un alto nivel de conocimiento del código
+
+>>>>>>> aafe3e9bce4b22f84b9c1ec9d57fd306efe3612a
