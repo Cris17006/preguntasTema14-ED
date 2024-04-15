@@ -3,6 +3,7 @@
    B) Pruebas de aceptación
    C) Pruebas de seguridad
    D) Pruebas A/B
+
    Respuesta correcta: B) Pruebas de aceptación
 
 2. ¿Qué tipo de pruebas permiten realizar pruebas del software sin conocer detalles de implementación?
@@ -10,6 +11,7 @@
    B) Pruebas de aceptación
    C) Pruebas de seguridad
    D) Pruebas de caja negra
+
    Respuesta correcta: D) Pruebas de caja negra
 
 3. ¿En qué consisten las pruebas A/B en el desarrollo de software?
@@ -17,6 +19,7 @@
    B) Evaluar la seguridad de un software
    C) Medir la accesibilidad de una página web
    D) Realizar pruebas de aceptación
+
    Respuesta correcta: A) Comparar dos versiones de un software
 
 4. ¿Qué tipo de pruebas son esenciales en el desarrollo de software que requiere el tratamiento de datos sensibles?
@@ -24,6 +27,7 @@
    B) Pruebas de aceptación
    C) Pruebas de seguridad
    D) Pruebas A/B
+
    Respuesta correcta: C) Pruebas de seguridad
 
 5. ¿En qué consisten las pruebas de caja blanca?
@@ -31,5 +35,44 @@
    B) Pruebas que requieren un alto nivel de conocimiento del código
    C) Pruebas que se centran en la funcionalidad del software
    D) Pruebas que evalúan la usabilidad de una aplicación
+
    Respuesta correcta: B) Pruebas que requieren un alto nivel de conocimiento del código
 
+6. ¿Cuál es uno de los niveles de pruebas que se pueden realizar en el desarrollo de software?
+   A) Pruebas de caja negra
+   B) Pruebas de aceptación
+   C) Pruebas unitarias
+   D) Pruebas de usabilidad
+
+   Respuesta correcta: C) Pruebas unitarias
+
+7. ¿Qué tipo de pruebas se recomienda para validar soluciones de diferentes equipos trabajando en paralelo?
+   A) Pruebas de caja blanca
+   B) Pruebas de aceptación
+   C) Pruebas de seguridad
+   D) Pruebas A/B
+   Respuesta correcta: D) Pruebas A/B
+
+8. ¿Por qué es importante realizar pruebas de seguridad en el desarrollo de software?
+   A) Para mejorar la usabilidad del software
+   B) Para proteger al usuario y al sistema de posibles ataques externos
+   C) Para medir la accesibilidad de una página web
+   D) Para determinar el nivel de aceptación del software
+
+   Respuesta correcta: B) Para proteger al usuario y al sistema de posibles ataques externos
+
+9. ¿Qué tipo de pruebas se recomienda para probar cambios en una función de código que han sido realizados recientemente?
+   A) Pruebas de caja blanca
+   B) Pruebas de aceptación
+   C) Pruebas de usabilidad
+   D) Pruebas de caja negra
+
+   Respuesta correcta: A) Pruebas de caja blanca
+
+10. ¿Cuál es uno de los enfoques para realizar pruebas de software sin conocer detalles de implementación?
+    A) Pruebas de caja blanca
+    B) Pruebas de aceptación
+    C) Pruebas de caja negra
+    D) Pruebas de usabilidad
+    
+    Respuesta correcta: C) Pruebas de caja negra
